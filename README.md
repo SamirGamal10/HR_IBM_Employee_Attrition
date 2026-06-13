@@ -4,7 +4,7 @@ This project analyzes IBM's HR dataset to predict employee attrition (likelihood
 
 ## 🚀 Demo
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)]()
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://hribmemployeeattrition-satcewfnhmjaycdqpalsum.streamlit.app)
 
 
 Run the interactive Streamlit app:
